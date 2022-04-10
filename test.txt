@@ -1,0 +1,1203 @@
+For this url  - http://translate.google.com/?hl=ru find next url or reason why this url doesn't work :
+This string isn't url - /?hl=ru&tab=TT
+https://www.google.ru/intl/ru/about/products?tab=Th
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://translate.google.com/?hl%3Dru&followup=https://translate.google.com/?hl%3Dru&hl=ru&ec=GAZAMw
+This string isn't url - /?hl=ru&tab=TT
+https://translate.google.com/about/?hl=ru
+https://policies.google.com/?hl=ru
+https://support.google.com/translate/?hl=ru
+https://www.google.com/about?hl=ru
+https://support.google.com/translate?p=sensitive-disputed-content&hl=ru
+https://support.google.com/translate?p=gendered_translations&hl=ru
+https://support.google.com/translate?p=gendered_translations&hl=ru
+https://support.google.com/translate/answer/2534559?ref_topic=7011659&hl=ru
+https://cloud.google.com/translate?hl=ru
+This string isn't url - ./history
+This string isn't url - ./saved
+This string isn't url - ./contribute
+For this url  - https://www.google.ru/intl/ru/about/products?tab=Th find next url or reason why this url doesn't work :
+This string isn't url - ../
+This string isn't url - #page-content
+This string isn't url - ../
+This string isn't url - ../products/
+This string isn't url - ../commitments/
+This string isn't url - ../stories/
+This string isn't url - ../
+This string isn't url - #page-content
+https://support.google.com/
+This string isn't url - #all-products
+This string isn't url - #all-products
+https://cloud.google.com/blog/products/workspace/helping-business-with-new-additions-to-google-workspace/
+https://safety.google/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage
+https://safety.google/products/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage/#search
+https://safety.google/products?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage/#gmail
+https://safety.google/products/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage#chrome
+https://safety.google/products/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage/#search
+https://safety.google/products?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage/#gmail
+https://safety.google/products/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage#chrome
+https://safety.google/products/?utm_medium=contextualpromo&utm_source=google&utm_campaign=swg2021&utm_content=utm%20for%20about.google%20productspage
+https://edu.google.com/
+https://edu.google.com/why-google/k-12-solutions/
+https://edu.google.com/products/workspace-for-education/
+https://edu.google.com/products/classroom/
+https://edu.google.com/products/chromebooks/
+https://edu.google.com/products/meet/
+https://edu.google.com/products/workspace-for-education/
+https://edu.google.com/products/classroom/
+https://edu.google.com/products/chromebooks/
+https://edu.google.com/products/meet/
+https://www.android.com/intl/en_us/auto/
+https://www.android.com/tv/
+https://www.google.com/chrome/
+https://chrome.google.com/webstore/category/apps
+https://www.google.com/chromebook/
+https://store.google.com/product/chromecast
+https://www.google.com/covid19/exposurenotifications/
+https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin
+https://www.gmail.com/intl/en_us/mail/help/about.html
+https://artsandculture.google.com/?utm_medium=referral&utm_source=about.google
+https://www.google.com/get/cardboard/
+https://www.google.com/cast/
+https://gsuite.google.com/products/chat/
+https://duo.google.com
+https://www.google.com/express/
+https://fi.google.com/about/
+https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=en
+https://www.google.com/fonts
+https://www.google.com/keep/
+https://gsuite.google.com/products/meet/
+https://one.google.com
+https://pay.google.com/about/
+https://play.google.com/store?hl=en
+https://play.google.com/store/apps/details?id=com.google.android.apps.books&e=-EnableAppDetailsPageRedesign
+https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=en
+https://support.google.com/googleplay/answer/4512465
+https://shopping.google.com/u/0/
+https://store.google.com/regionpicker/
+https://www.google.com/streetview/earn/
+https://tv.google/
+https://store.google.com/product/google_wifi
+https://www.google.com/flights
+https://assistant.google.com/business/
+https://www.google.com/cloudprint/learn/index.html
+https://groups.google.com
+https://classroom.google.com/welcome
+https://www.google.com/alerts
+https://sites.google.com/new
+https://www.google.co.in/edu/expeditions/
+https://support.google.com/hangouts/answer/2944865
+https://store.google.com/category/phones
+https://www.android.com/intl/ru_ru/play-protect/
+https://www.tiltbrush.com/
+https://www.google.com/travel/
+https://voice.google.com/
+https://www.waze.com/
+https://wearos.google.com/
+https://www.youtube.com/yt/about/
+https://www.youtube.com/musicpremium
+https://tv.youtube.com/?utm_source=gaboutpage&utm_medium=youtubetv&utm_campaign=gabout
+https://youtube-global.blogspot.com/2015/02/youtube-kids.html
+https://scholar.google.com/intl/en-US/scholar/about.html
+https://www.google.com/drive/
+https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout
+https://www.google.com/calendar/about/
+https://www.google.com/maps/about/
+https://play.google.com/store/apps/details?id=com.google.android.contacts
+https://news.google.com/
+https://www.android.com/intl/en_us/
+https://translate.google.com/about
+https://www.google.com/earth/
+https://podcasts.google.com/
+https://www.google.com/search/about/
+https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout
+https://chrome.google.com/webstore/detail/google-drawings/mkaakpdehdafacodkgkpghoibnmamcme?hl=en-US
+https://messages.google.com/
+https://www.google.com/inputtools/
+https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout
+https://store.google.com/category/connected_home
+https://www.google.com/finance
+https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout
+https://www.google.com/photos/about
+https://www.google.com/admob/?utm_source=internal&utm_medium=et&utm_term=goo.gl%2FPZaclC&utm_content=midpage&utm_campaign=googlehome%26producticon
+https://www.google.com/adsense/start/?utm_source=internal&utm_medium=et&utm_campaign=app_switcher_ev_mr&utm_content=learn_more
+https://enterprise.google.com/android/
+https://www.blogger.com/features
+https://businessmessages.google
+https://enterprise.google.com/chrome/
+https://admanager.google.com/home/
+https://www.google.com/analytics/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=analytics-icon
+https://cloud.google.com/
+https://learndigital.withgoogle.com/digitalgarage?utm_source=Engagement&utm_medium=ep&utm_term=ep&utm_content=Other_EP_PP&utm_campaign=Q2_2017_EP_ProductPage
+https://enterprise.google.com/search/
+https://www.google.com/retail/solutions/manufacturer-center/
+https://enterprise.google.com/maps/products/mapsapi.html
+https://www.google.com/retail/merchant-center/
+https://www.google.com/trends/
+https://www.google.com/webdesigner/
+https://workspace.google.com/
+https://assistant.google.com/business/
+https://domains.google.com/about/
+https://podcastsmanager.google.com/
+https://marketingplatform.google.com/
+https://ads.google.com/home/?subid=ww-ww-et-g-aw-a-about_products_1-redlmo2!
+https://www.google.com/retail/shopping-campaigns/
+https://www.google.com/webmasters/tools/home?hl=en
+https://biz.waze.com/
+https://www.google.com/tagmanager/
+https://www.google.com/analytics/surveys/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=surveys-icon
+https://www.google.com/analytics/optimize/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=optimize-icon
+https://www.google.com/retail/local-inventory-ads/
+https://www.google.com/analytics/data-studio/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=data-studio-icon
+https://www.google.com/business/?gmbsrc=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&ppsrc=GMBB0&utm_campaign=ww-ww-et-gs-z-gmb-s-z-h~pro-z-u&utm_source=gmb&utm_medium=et
+https://developers.google.com/business-communications/business-messages/guides
+https://www.google.com/covid19/exposurenotifications/
+https://developers.google.com/products/?hl=ru
+https://instagram.com/google/
+https://www.youtube.com/user/Google
+https://twitter.com/google
+https://www.facebook.com/Google
+https://www.linkedin.com/company/google
+This string isn't url - ../contact-google/
+https://abc.xyz/investor/
+https://careers.google.com/
+This string isn't url - ../locations/
+https://www.blog.google/
+https://www.thinkwithgoogle.com/intl/ru-ru/
+https://www.blog.google/press/
+https://www.blog.google/press/
+https://www.google.com/permissions/
+https://www.google.com/about/appsecurity/
+https://www.google.com/about/software-principles.html
+https://www.google.com/about/unwanted-software-policy.html
+https://www.google.com/about/responsible-supply-chain/
+This string isn't url - ../extended-workforce/
+https://abc.xyz/investor/conflictminerals/
+This string isn't url - ../community-guidelines
+This string isn't url - ../how-our-business-works/
+This string isn't url - ../
+https://support.google.com?hl=ALL
+https://www.google.com/policies/privacy/
+https://www.google.com/policies/terms/
+For this url  - https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://translate.google.com/?hl%3Dru&followup=https://translate.google.com/?hl%3Dru&hl=ru&ec=GAZAMw find next url or reason why this url doesn't work :
+https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Ftranslate.google.com%2F%3Fhl%3Dru&hl=ru
+https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Ftranslate.google.com%2F%3Fhl%3Dru&followup=https%3A%2F%2Ftranslate.google.com%2F%3Fhl%3Dru&hl=ru
+https://accounts.google.com/SignUp?continue=https%3A%2F%2Ftranslate.google.com%2F%3Fhl%3Dru&hl=ru
+https://www.google.com/intl/ru/about
+https://accounts.google.com/TOS?loc=RU&hl=ru&privacy=true
+https://accounts.google.com/TOS?loc=RU&hl=ru
+http://www.google.com/support/accounts?hl=ru
+For this url  - https://translate.google.com/about/?hl=ru find next url or reason why this url doesn't work :
+This string isn't url - ../about/
+This string isn't url - ../about/
+This string isn't url - #jump-content
+This string isn't url - ../about/
+This string isn't url - ../about/languages/
+This string isn't url - ../about/contribute/
+This string isn't url - ../about/forbusiness/
+https://translate.google.com/?hl=ru
+This string isn't url - ../about/
+This string isn't url - #jump-content
+This string isn't url - ../about/
+This string isn't url - ../about/languages/
+This string isn't url - ../about/contribute/
+This string isn't url - ../about/forbusiness/
+https://translate.google.com/?hl=ru
+https://play.google.com/store/apps/details?hl=ru&id=com.google.android.apps.translate
+https://itunes.apple.com/ru/app/apple-store/id414706506?pt=9008&ct=ru-desktop-about-languages&mt=8
+https://play.google.com/store/apps/details?hl=ru&id=com.google.android.apps.translate
+https://itunes.apple.com/ru/app/apple-store/id414706506?pt=9008&ct=ru-desktop-about-languages&mt=8
+This string isn't url - #tab-1
+This string isn't url - #tab-2
+This string isn't url - #tab-3
+This string isn't url - #tab-1
+This string isn't url - #tab-2
+This string isn't url - #tab-3
+This string isn't url - #tab-4
+This string isn't url - /intl/ru/about/languages/
+This string isn't url - /intl/ru/about/contribute/
+This string isn't url - /intl/ru/about/forbusiness/
+https://play.google.com/store/apps/details?hl=ru&id=com.google.android.apps.translate
+https://itunes.apple.com/ru/app/apple-store/id414706506?pt=9008&ct=ru-desktop-about-languages&mt=8
+This string isn't url - #tap-to-translate
+This string isn't url - #speak-with-the-world
+This string isn't url - #always-with-you
+This string isn't url - #your-choice
+This string isn't url - ../about/
+This string isn't url - ../about/languages/
+This string isn't url - ../about/contribute/
+This string isn't url - ../about/forbusiness/
+https://www.google.com
+https://about.google/intl/ru/
+https://policies.google.com/privacy?hl=ru
+https://policies.google.com/terms?hl=ru
+This string isn't url - /intl/ru/about/license/
+For this url  - https://policies.google.com/?hl=ru find next url or reason why this url doesn't work :
+This string isn't url - /
+https://www.google.ru/intl/ru/about/products
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/?hl%3Dru&followup=https://policies.google.com/?hl%3Dru&hl=ru&ec=GAZAoQQ
+This string isn't url - ?hl=ru
+This string isn't url - privacy?hl=ru
+This string isn't url - terms?hl=ru
+This string isn't url - technologies?hl=ru
+This string isn't url - faq?hl=ru
+https://www.google.com/?hl=ru
+This string isn't url - ?hl=ru
+This string isn't url - privacy?hl=ru
+This string isn't url - terms?hl=ru
+This string isn't url - technologies?hl=ru
+This string isn't url - faq?hl=ru
+This string isn't url - /
+https://www.google.com/?hl=ru
+This string isn't url - ?hl=ru
+This string isn't url - ?hl=ru
+This string isn't url - privacy?hl=ru
+This string isn't url - terms?hl=ru
+This string isn't url - technologies?hl=ru
+This string isn't url - faq?hl=ru
+https://myaccount.google.com/?hl=ru
+This string isn't url - privacy?hl=ru
+This string isn't url - terms?hl=ru
+https://safety.google/?hl=ru
+https://account.google.com/?hl=ru
+https://safety.google/principles?hl=ru
+This string isn't url - technologies/product-privacy?hl=ru
+https://www.google.com/
+https://about.google/
+This string isn't url - privacy?hl=ru
+This string isn't url - terms?hl=ru
+For this url  - https://support.google.com/translate/?hl=ru find next url or reason why this url doesn't work :
+This string isn't url - /?tab=uu
+This string isn't url - /translate
+https://www.google.ru/intl/ru/about/products?tab=uh
+https://accounts.google.com/ServiceLogin?hl=ru&passive=true&continue=http://support.google.com/translate/%3Fhl%3Dru&ec=GAZAdQ
+This string isn't url - /?tab=uu
+This string isn't url - /
+This string isn't url - /translate/?hl=ru
+This string isn't url - //translate.google.com/
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+This string isn't url - #
+This string isn't url - /translate/?hl=ru
+This string isn't url - /translate/announcements/9988463
+This string isn't url - //translate.google.com/
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+This string isn't url - /translate/answer/6350850?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/6142473?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/9179237?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/10421057?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/11388009?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/6142478?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6350658?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142483?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142468?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142474?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/2534559?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142469?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/9724492?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/10964115?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142479?hl=ru&ref_topic=7012061
+This string isn't url - /translate/answer/6142480?hl=ru&ref_topic=7012061
+This string isn't url - /translate/answer/9729699?hl=ru&ref_topic=7012061
+This string isn't url - /translate/answer/10178050?hl=ru&ref_topic=7012061
+This string isn't url - /translate/answer/2534530?hl=ru&ref_topic=7010955
+This string isn't url - /translate/answer/9991147?hl=ru&ref_topic=9988463
+This string isn't url - /translate/answer/9990733?hl=ru&ref_topic=9988463
+This string isn't url - /translate/answer/9991222?hl=ru&ref_topic=9988463
+This string isn't url - /translate/answer/9991815?hl=ru&ref_topic=9988463
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+For this url  - https://www.google.com/about?hl=ru find next url or reason why this url doesn't work :
+This string isn't url - #content
+This string isn't url - ./
+This string isn't url - ./
+This string isn't url - ./
+This string isn't url - ./products/
+This string isn't url - ./commitments/
+This string isn't url - ./stories/
+This string isn't url - ./stories/accelerating-equity-for-women/
+This string isn't url - products
+This string isn't url - stories
+https://careers.google.com/
+This string isn't url - locations/
+This string isn't url - our-story
+This string isn't url - ./contact-google/
+https://www.google.com/doodles
+This string isn't url - #
+https://instagram.com/google/
+https://www.youtube.com/user/Google
+https://twitter.com/google
+https://www.facebook.com/Google
+https://www.linkedin.com/company/google
+This string isn't url - ./contact-google/
+https://abc.xyz/investor/
+https://careers.google.com/
+This string isn't url - ./locations/
+https://www.blog.google/
+https://www.thinkwithgoogle.com/intl/ru-ru/
+https://www.blog.google/press/
+https://www.blog.google/press/
+https://www.google.com/permissions/
+https://www.google.com/about/appsecurity/
+https://www.google.com/about/software-principles.html
+https://www.google.com/about/unwanted-software-policy.html
+https://www.google.com/about/responsible-supply-chain/
+This string isn't url - ./extended-workforce/
+https://abc.xyz/investor/conflictminerals/
+This string isn't url - ./community-guidelines
+This string isn't url - ./how-our-business-works/
+This string isn't url - ./
+https://support.google.com?hl=ru
+https://www.google.com/policies/privacy/
+https://www.google.com/policies/terms/
+For this url  - https://support.google.com/translate?p=sensitive-disputed-content&hl=ru find next url or reason why this url doesn't work :
+This string isn't url - /?tab=uu
+This string isn't url - /translate
+https://www.google.ru/intl/ru/about/products?tab=uh
+https://accounts.google.com/ServiceLogin?hl=ru&passive=true&continue=http://support.google.com/translate/answer/11388009%3Fp%3Dsensitive-disputed-content%26hl%3Dru%26visit_id%3D637844926374430283-2217671164%26rd%3D1&ec=GAZAdQ
+This string isn't url - /?tab=uu
+This string isn't url - /
+This string isn't url - /translate/?hl=ru
+This string isn't url - //translate.google.com/
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+This string isn't url - #
+This string isn't url - /translate/?hl=ru
+This string isn't url - /translate/announcements/9988463
+This string isn't url - //translate.google.com/
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+This string isn't url - /translate/answer/9179237
+This string isn't url - /translate/answer/2534530
+This string isn't url - /translate/?hl=ru#topic=7011755
+This string isn't url - /translate/answer/6350850?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/6142473?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/9179237?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/10421057?hl=ru&ref_topic=7011755
+This string isn't url - #
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+For this url  - https://support.google.com/translate?p=gendered_translations&hl=ru find next url or reason why this url doesn't work :
+This string isn't url - /?tab=uu
+This string isn't url - /translate
+https://www.google.ru/intl/ru/about/products?tab=uh
+https://accounts.google.com/ServiceLogin?hl=ru&passive=true&continue=http://support.google.com/translate/answer/9179237%3Fp%3Dgendered_translations%26hl%3Dru%26visit_id%3D637844926380489728-1355496487%26rd%3D1&ec=GAZAdQ
+This string isn't url - /?tab=uu
+This string isn't url - /
+This string isn't url - /translate/?hl=ru
+This string isn't url - //translate.google.com/
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+This string isn't url - #
+This string isn't url - /translate/?hl=ru
+This string isn't url - /translate/announcements/9988463
+This string isn't url - //translate.google.com/
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+https://support.google.com/translate/answer/2534530
+https://support.google.com/translate/answer/6142480
+This string isn't url - #available
+This string isn't url - /translate/?hl=ru#topic=7011755
+This string isn't url - /translate/answer/6350850?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/6142473?hl=ru&ref_topic=7011755
+This string isn't url - #
+This string isn't url - /translate/answer/10421057?hl=ru&ref_topic=7011755
+This string isn't url - /translate/answer/11388009?hl=ru&ref_topic=7011755
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+For this url  - https://support.google.com/translate/answer/2534559?ref_topic=7011659&hl=ru find next url or reason why this url doesn't work :
+This string isn't url - /?tab=uu
+This string isn't url - /translate
+https://www.google.ru/intl/ru/about/products?tab=uh
+https://accounts.google.com/ServiceLogin?hl=ru&passive=true&continue=http://support.google.com/translate/answer/2534559%3Fref_topic%3D7011659%26hl%3Dru&ec=GAZAdQ
+This string isn't url - /?tab=uu
+This string isn't url - /
+This string isn't url - /translate/?hl=ru
+This string isn't url - //translate.google.com/
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+This string isn't url - #
+This string isn't url - /translate/?hl=ru
+This string isn't url - /translate/announcements/9988463
+This string isn't url - //translate.google.com/
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+This string isn't url - //productforums.google.com/forum/#!forum/translate
+https://support.google.com/translate/answer/2534559
+https://support.google.com/chrome/answer/173424?co=GENIE.Platform%3DAndroid&oco=1
+https://play.google.com/store/apps/details?id=com.google.android.apps.translate
+https://support.google.com/translate/answer/2534559?ref_topic=7011659&hl=ru&co=GENIE.Platform%3DAndroid
+https://support.google.com/translate/answer/2534559?ref_topic=7011659&hl=ru&co=GENIE.Platform%3DDesktop
+https://support.google.com/translate/answer/2534559?ref_topic=7011659&hl=ru&co=GENIE.Platform%3DiOS
+This string isn't url - /translate/?hl=ru#topic=7011659
+This string isn't url - /translate/answer/6142478?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6350658?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142483?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142468?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/6142474?hl=ru&ref_topic=7011659
+This string isn't url - #
+This string isn't url - /translate/answer/6142469?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/9724492?hl=ru&ref_topic=7011659
+This string isn't url - /translate/answer/10964115?hl=ru&ref_topic=7011659
+This string isn't url - //www.google.com/intl/ru/privacy.html
+https://www.google.com/accounts/TOS
+For this url  - https://cloud.google.com/translate?hl=ru find next url or reason why this url doesn't work :
+This string isn't url - /
+https://cloud.google.com/why-google-cloud?hl=ru
+This string isn't url - #
+https://cloud.google.com/why-google-cloud?hl=ru
+https://cloud.google.com/why-google-cloud?hl=ru
+https://cloud.google.com/multicloud?hl=ru
+https://cloud.google.com/security?hl=ru
+https://cloud.google.com/infrastructure?hl=ru
+https://cloud.google.com/data-cloud?hl=ru
+https://cloud.google.com/open-cloud?hl=ru
+https://cloud.google.com/sustainability?hl=ru
+https://workspace.google.com/?hl=ru
+https://cloud.google.com/events?hl=ru
+https://cloud.google.com/blog?hl=ru
+https://cloud.google.com/customers?hl=ru
+https://cloud.google.com/analyst-reports?hl=ru
+https://cloud.google.com/solutions?hl=ru
+This string isn't url - #
+https://cloud.google.com/solutions?hl=ru#industry-solutions
+https://cloud.google.com/solutions/retail?hl=ru
+https://cloud.google.com/solutions/cpg?hl=ru
+https://cloud.google.com/solutions/financial-services?hl=ru
+https://cloud.google.com/solutions/healthcare-life-sciences?hl=ru
+https://cloud.google.com/solutions/media-entertainment?hl=ru
+https://cloud.google.com/solutions/telecommunications?hl=ru
+https://cloud.google.com/solutions/gaming?hl=ru
+https://cloud.google.com/solutions/manufacturing?hl=ru
+https://cloud.google.com/solutions/supply-chain-logistics?hl=ru
+https://cloud.google.com/solutions/government?hl=ru
+https://cloud.google.com/solutions/education?hl=ru
+https://cloud.google.com/solutions?hl=ru#industry-solutions
+https://cloud.google.com/solutions?hl=ru
+https://cloud.google.com/solutions/application-modernization?hl=ru
+https://cloud.google.com/solutions/hybrid-and-multicloud-application-platform?hl=ru
+https://cloud.google.com/solutions/unlocking-legacy-applications?hl=ru
+https://cloud.google.com/serverless?hl=ru
+https://cloud.google.com/devops?hl=ru
+https://cloud.google.com/solutions/continuous-delivery?hl=ru
+https://cloud.google.com/solutions/continuous-integration?hl=ru
+https://cloud.google.com/solutions/mainframe-modernization?hl=ru
+https://cloud.google.com/camp?hl=ru
+https://cloud.google.com/solutions/web-hosting?hl=ru
+https://cloud.google.com/sre?hl=ru
+https://cloud.google.com/solutions/ai?hl=ru
+https://cloud.google.com/vertex-ai?hl=ru
+https://cloud.google.com/solutions/contact-center?hl=ru
+https://cloud.google.com/agent-assist?hl=ru
+https://cloud.google.com/solutions/talent-solution?hl=ru
+https://cloud.google.com/solutions/document-ai?hl=ru
+https://cloud.google.com/solutions/lending-doc-ai?hl=ru
+https://cloud.google.com/solutions/procurement-doc-ai?hl=ru
+https://cloud.google.com/solutions/intelligent-products?hl=ru
+https://cloud.google.com/data-science?hl=ru
+https://cloud.google.com/solutions/contract-doc-ai?hl=ru
+https://cloud.google.com/solutions/ccai-insights?hl=ru
+https://cloud.google.com/solutions/apis-and-applications?hl=ru
+https://cloud.google.com/solutions/new-channels-using-apis?hl=ru
+https://cloud.google.com/solutions/unlocking-legacy-applications?hl=ru
+https://cloud.google.com/solutions/open-banking-apix?hl=ru
+https://cloud.google.com/solutions/databases?hl=ru
+https://cloud.google.com/solutions/database-migration?hl=ru
+https://cloud.google.com/solutions/database-modernization?hl=ru
+https://cloud.google.com/products/databases?hl=ru
+https://cloud.google.com/solutions/migrate-oracle-workloads?hl=ru
+https://cloud.google.com/solutions/open-source-databases?hl=ru
+https://cloud.google.com/sql-server?hl=ru
+https://cloud.google.com/data-cloud?hl=ru
+https://cloud.google.com/solutions/databases?hl=ru
+https://cloud.google.com/solutions/smart-analytics?hl=ru
+https://cloud.google.com/solutions/ai?hl=ru
+https://cloud.google.com/solutions/business-innovation?hl=ru
+https://cloud.google.com/solutions/operational-efficiency?hl=ru
+https://cloud.google.com/covid19?hl=ru
+https://cloud.google.com/covid19-healthcare?hl=ru
+https://cloud.google.com/solutions/infrastructure-modernization?hl=ru
+https://cloud.google.com/solutions/application-migration?hl=ru
+https://cloud.google.com/solutions/sap?hl=ru
+https://cloud.google.com/solutions/hpc?hl=ru
+https://cloud.google.com/windows?hl=ru
+https://cloud.google.com/solutions/migration-center?hl=ru
+https://cloud.google.com/solutions/active-assist?hl=ru
+https://cloud.google.com/solutions/virtual-desktops?hl=ru
+https://cloud.google.com/solutions/cloud-migration-program?hl=ru
+https://cloud.google.com/solutions/backup-dr?hl=ru
+https://workspace.google.com/enterprise/?hl=ru
+https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect&hl=ru
+https://workspace.google.com/essentials/?hl=ru
+https://cloud.google.com/identity?hl=ru
+https://chromeenterprise.google/?hl=ru
+https://workspace.google.com/products/cloud-search/?hl=ru
+https://cloud.google.com/solutions/security?hl=ru
+https://cloud.google.com/solutions/security-analytics-and-operations?hl=ru
+https://cloud.google.com/solutions/web-app-and-api-protection?hl=ru
+https://cloud.google.com/solutions/security-and-resilience?hl=ru
+https://cloud.google.com/solutions/risk-and-compliance-as-code?hl=ru
+https://cloud.google.com/solutions/smart-analytics?hl=ru
+https://cloud.google.com/solutions/data-warehouse-modernization?hl=ru
+https://cloud.google.com/solutions/data-lake?hl=ru
+https://cloud.google.com/solutions/spark?hl=ru
+https://cloud.google.com/solutions/stream-analytics?hl=ru
+https://cloud.google.com/solutions/business-intelligence?hl=ru
+https://cloud.google.com/data-science?hl=ru
+https://cloud.google.com/solutions/marketing-analytics?hl=ru
+https://cloud.google.com/solutions/geospatial?hl=ru
+https://cloud.google.com/solutions/datasets?hl=ru
+https://cloud.google.com/solutions?hl=ru#section-12
+https://cloud.google.com/solutions/startups?hl=ru
+https://cloud.google.com/startup?hl=ru
+https://cloud.google.com/solutions/smb?hl=ru
+https://cloud.google.com/saas?hl=ru
+https://cloud.google.com/products?hl=ru
+This string isn't url - #
+https://cloud.google.com/compute?hl=ru
+https://cloud.google.com/storage?hl=ru
+https://cloud.google.com/sdk?hl=ru
+https://cloud.google.com/sql?hl=ru
+https://cloud.google.com/kubernetes-engine?hl=ru
+https://cloud.google.com/bigquery?hl=ru
+https://cloud.google.com/cdn?hl=ru
+https://cloud.google.com/dataflow?hl=ru
+https://cloud.google.com/products/operations?hl=ru
+https://cloud.google.com/run?hl=ru
+https://cloud.google.com/anthos?hl=ru
+https://cloud.google.com/products?hl=ru
+https://cloud.google.com/products/ai?hl=ru
+https://cloud.google.com/vertex-ai?hl=ru
+https://cloud.google.com/speech-to-text?hl=ru
+https://cloud.google.com/vision?hl=ru
+https://cloud.google.com/text-to-speech?hl=ru
+https://cloud.google.com/translate?hl=ru
+https://cloud.google.com/natural-language?hl=ru
+https://cloud.google.com/automl?hl=ru
+https://cloud.google.com/video-intelligence?hl=ru
+https://cloud.google.com/ai-infrastructure?hl=ru
+https://cloud.google.com/dialogflow?hl=ru
+https://cloud.google.com/automl-tables/docs?hl=ru
+https://cloud.google.com/products?hl=ru#ai-and-machine-learning
+https://cloud.google.com/apigee?hl=ru
+https://cloud.google.com/apigee/integration?hl=ru
+https://cloud.google.com/endpoints?hl=ru
+https://cloud.google.com/healthcare-api?hl=ru
+https://cloud.google.com/appsheet?hl=ru
+https://cloud.google.com/api-gateway?hl=ru
+https://cloud.google.com/products/compute?hl=ru
+https://cloud.google.com/compute?hl=ru
+https://cloud.google.com/appengine?hl=ru
+https://cloud.google.com/gpu?hl=ru
+https://cloud.google.com/migrate/compute-engine?hl=ru
+https://cloud.google.com/spot-vms?hl=ru
+https://cloud.google.com/shielded-vm?hl=ru
+https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes?hl=ru
+https://cloud.google.com/bare-metal?hl=ru
+https://cloud.google.com/recommender?hl=ru
+https://cloud.google.com/vmware-engine?hl=ru
+https://cloud.google.com/run?hl=ru
+https://cloud.google.com/products?hl=ru#compute
+https://cloud.google.com/containers?hl=ru
+https://cloud.google.com/kubernetes-engine?hl=ru
+https://cloud.google.com/container-registry?hl=ru
+https://cloud.google.com/container-registry?hl=ru
+https://cloud.google.com/build?hl=ru
+https://cloud.google.com/deep-learning-containers?hl=ru
+https://cloud.google.com/kubernetes-applications?hl=ru
+https://cloud.google.com/artifact-registry?hl=ru
+https://cloud.google.com/knative?hl=ru
+https://cloud.google.com/run?hl=ru
+https://cloud.google.com/code?hl=ru
+https://cloud.google.com/solutions/smart-analytics?hl=ru
+https://cloud.google.com/bigquery?hl=ru
+https://cloud.google.com/looker?hl=ru
+https://cloud.google.com/dataflow?hl=ru
+https://cloud.google.com/pubsub?hl=ru
+https://cloud.google.com/dataproc?hl=ru
+https://cloud.google.com/data-fusion?hl=ru
+https://cloud.google.com/composer?hl=ru
+https://cloud.google.com/dataprep?hl=ru
+https://cloud.google.com/dataplex?hl=ru
+https://cloud.google.com/data-catalog?hl=ru
+https://cloud.google.com/analytics-hub?hl=ru
+https://cloud.google.com/products?hl=ru#section-7
+https://cloud.google.com/products/databases?hl=ru
+https://cloud.google.com/bigtable?hl=ru
+https://cloud.google.com/firestore?hl=ru
+https://cloud.google.com/memorystore?hl=ru
+https://cloud.google.com/spanner?hl=ru
+https://cloud.google.com/sql?hl=ru
+https://cloud.google.com/database-migration?hl=ru
+https://cloud.google.com/bare-metal?hl=ru
+https://firebase.google.com/products/realtime-database/?hl=ru
+https://cloud.google.com/datastream?hl=ru
+https://cloud.google.com/products/tools?hl=ru
+https://cloud.google.com/artifact-registry?hl=ru
+https://cloud.google.com/build?hl=ru
+https://cloud.google.com/code?hl=ru
+https://cloud.google.com/deployment-manager/docs?hl=ru
+https://cloud.google.com/sdk?hl=ru
+https://cloud.google.com/scheduler?hl=ru
+https://cloud.google.com/source-repositories?hl=ru
+https://cloud.google.com/tasks?hl=ru
+https://cloud.google.com/deploy?hl=ru
+https://cloud.google.com/tekton?hl=ru
+https://cloud.google.com/powershell?hl=ru
+https://cloud.google.com/products/tools?hl=ru
+https://cloud.google.com/solutions/apigee-health-apix?hl=ru
+https://cloud.google.com/healthcare-api?hl=ru
+https://cloud.google.com/life-sciences?hl=ru
+https://cloud.google.com/natural-language?hl=ru
+https://cloud.google.com/anthos?hl=ru
+https://cloud.google.com/anthos?hl=ru
+https://cloud.google.com/looker?hl=ru
+https://cloud.google.com/anthos/run?hl=ru
+https://cloud.google.com/kubernetes-applications?hl=ru
+https://cloud.google.com/migrate/anthos?hl=ru
+https://cloud.google.com/products/operations?hl=ru
+https://cloud.google.com/build?hl=ru
+https://cloud.google.com/traffic-director?hl=ru
+https://cloud.google.com/apigee?hl=ru
+https://cloud.google.com/distributed-cloud?hl=ru
+https://cloud.google.com/iot-core?hl=ru
+https://cloud.google.com/edge-tpu?hl=ru
+https://cloud.google.com/products/management?hl=ru
+https://cloud.google.com/anthos/config-management?hl=ru
+https://cloud.google.com/carbon-footprint?hl=ru
+https://cloud.google.com/apis?hl=ru
+https://cloud.google.com/cloud-console?hl=ru
+https://cloud.google.com/console-app?hl=ru
+https://cloud.google.com/shell?hl=ru
+https://cloud.google.com/config-connector/docs/overview?hl=ru
+https://cloud.google.com/cost-management?hl=ru
+https://cloud.google.com/solutions/active-assist?hl=ru
+https://cloud.google.com/private-catalog?hl=ru
+https://cloud.google.com/docs/terraform?hl=ru
+https://cloud.google.com/game-servers?hl=ru
+https://cloud.google.com/opencue?hl=ru
+https://cloud.google.com/transcoder/docs?hl=ru
+https://cloud.google.com/products/cloud-migration?hl=ru
+https://cloud.google.com/solutions/application-migration?hl=ru
+https://cloud.google.com/bigquery-transfer/docs/introduction?hl=ru
+https://cloud.google.com/foundation-toolkit?hl=ru
+https://cloud.google.com/database-migration?hl=ru
+https://cloud.google.com/migrate/anthos?hl=ru
+https://cloud.google.com/migrate/compute-engine?hl=ru
+https://cloud.google.com/solutions/cloud-migration-program?hl=ru
+https://cloud.google.com/transfer-appliance/docs/4.0?hl=ru
+https://cloud.google.com/storage-transfer-service?hl=ru
+https://cloud.google.com/vmware-engine?hl=ru
+https://cloud.google.com/products/networking?hl=ru
+https://cloud.google.com/armor?hl=ru
+https://cloud.google.com/cdn?hl=ru
+https://cloud.google.com/dns?hl=ru
+https://cloud.google.com/load-balancing?hl=ru
+https://cloud.google.com/nat?hl=ru
+https://cloud.google.com/hybrid-connectivity?hl=ru
+https://cloud.google.com/network-connectivity-center?hl=ru
+https://cloud.google.com/network-intelligence-center?hl=ru
+https://cloud.google.com/network-tiers?hl=ru
+https://cloud.google.com/network-telemetry?hl=ru
+https://cloud.google.com/traffic-director?hl=ru
+https://cloud.google.com/products?hl=ru#section-16
+https://cloud.google.com/products/operations?hl=ru
+https://cloud.google.com/logging?hl=ru
+https://cloud.google.com/monitoring?hl=ru
+https://cloud.google.com/error-reporting?hl=ru
+https://cloud.google.com/kubernetes-engine-monitoring?hl=ru
+https://cloud.google.com/trace?hl=ru
+https://cloud.google.com/profiler?hl=ru
+https://cloud.google.com/debugger?hl=ru
+https://cloud.google.com/solutions/active-assist?hl=ru
+https://cloud.google.com/products/security-and-identity?hl=ru
+https://cloud.google.com/iam?hl=ru
+https://cloud.google.com/assured-workloads?hl=ru
+https://cloud.google.com/security-key-management?hl=ru
+https://cloud.google.com/confidential-computing?hl=ru
+https://cloud.google.com/security-command-center?hl=ru
+https://cloud.google.com/dlp?hl=ru
+https://cloud.google.com/managed-microsoft-ad/docs/overview?hl=ru
+https://cloud.google.com/access-transparency?hl=ru
+https://cloud.google.com/titan-security-key?hl=ru
+https://cloud.google.com/secret-manager?hl=ru
+https://cloud.google.com/beyondcorp-enterprise?hl=ru
+https://cloud.google.com/products?hl=ru#security-and-identity
+https://cloud.google.com/serverless?hl=ru
+https://cloud.google.com/run?hl=ru
+https://cloud.google.com/functions?hl=ru
+https://cloud.google.com/appengine?hl=ru
+https://cloud.google.com/workflows?hl=ru
+https://cloud.google.com/products/storage?hl=ru
+https://cloud.google.com/products/storage?hl=ru
+https://cloud.google.com/storage?hl=ru
+https://cloud.google.com/filestore?hl=ru
+https://cloud.google.com/persistent-disk?hl=ru
+https://firebase.google.com/products/storage?hl=ru
+https://cloud.google.com/local-ssd?hl=ru
+https://cloud.google.com/storage-transfer-service?hl=ru
+https://workspace.google.com/essentials/?hl=ru
+https://cloud.google.com/pricing?hl=ru
+This string isn't url - #
+https://cloud.google.com/contact/?direct=true&hl=ru
+https://cloud.google.com/pricing?hl=ru
+https://cloud.google.com/pricing/list?hl=ru
+https://cloud.google.com/products/calculator?hl=ru
+https://cloud.google.com/free?hl=ru
+https://workspace.google.com/pricing.html?hl=ru
+https://cloud.google.com/maps-platform/pricing?hl=ru
+https://chromeenterprise.google/devices/tco-calculator/?hl=ru
+https://cloud.google.com/apigee/pricing?hl=ru
+https://looker.com/product/pricing
+https://firebase.google.com/pricing/?hl=ru
+https://cloud.google.com/start?hl=ru
+This string isn't url - #
+https://cloud.google.com/free?hl=ru
+https://cloud.google.com/docs/get-started?hl=ru
+https://cloud.google.com/developers?hl=ru
+https://cloud.google.com/certification?hl=ru
+https://cloud.google.com/consulting?hl=ru
+https://cloud.google.com/tam?hl=ru
+https://cloud.google.com/training?hl=ru
+https://cloud.google.com/partners?hl=ru
+https://cloud.google.com/partners/become-a-partner?hl=ru
+https://cloud.google.com/marketplace?hl=ru
+https://cloud.google.com/docs?hl=ru
+https://cloud.google.com/support-hub?hl=ru
+https://cloud.google.com/docs?hl=ru
+https://cloud.google.com/support-hub?hl=ru
+https://cloud.google.com/translate?hl=ru
+https://cloud.google.com/contact?hl=ru
+This string isn't url - //console.cloud.google.com/freetrial?hl=ru
+This string isn't url - /
+This string isn't url - /why-google-cloud
+This string isn't url - /solutions
+This string isn't url - /products
+This string isn't url - /pricing
+This string isn't url - /start
+This string isn't url - /docs
+This string isn't url - /support-hub
+This string isn't url - //console.cloud.google.com/
+This string isn't url - /contact
+This string isn't url - //console.cloud.google.com/freetrial
+This string isn't url - /why-google-cloud
+This string isn't url - /why-google-cloud
+This string isn't url - /multicloud
+This string isn't url - /security
+This string isn't url - /infrastructure
+This string isn't url - /data-cloud
+This string isn't url - /open-cloud
+This string isn't url - /sustainability
+https://workspace.google.com/
+This string isn't url - /events
+This string isn't url - /blog
+This string isn't url - /customers
+This string isn't url - /analyst-reports
+This string isn't url - /solutions#industry-solutions
+This string isn't url - /solutions/retail
+This string isn't url - /solutions/cpg
+This string isn't url - /solutions/financial-services
+This string isn't url - /solutions/healthcare-life-sciences
+This string isn't url - /solutions/media-entertainment
+This string isn't url - /solutions/telecommunications
+This string isn't url - /solutions/gaming
+This string isn't url - /solutions/manufacturing
+This string isn't url - /solutions/supply-chain-logistics
+This string isn't url - /solutions/government
+This string isn't url - /solutions/education
+This string isn't url - /solutions#industry-solutions
+This string isn't url - /solutions
+This string isn't url - /solutions/application-modernization
+This string isn't url - /solutions/hybrid-and-multicloud-application-platform
+This string isn't url - /solutions/unlocking-legacy-applications
+This string isn't url - /serverless
+This string isn't url - /devops
+This string isn't url - /solutions/continuous-delivery
+This string isn't url - /solutions/continuous-integration
+This string isn't url - /solutions/mainframe-modernization
+This string isn't url - /camp
+This string isn't url - /solutions/web-hosting
+This string isn't url - /sre
+This string isn't url - /solutions/ai
+This string isn't url - /vertex-ai
+This string isn't url - /solutions/contact-center
+This string isn't url - /agent-assist
+This string isn't url - /solutions/talent-solution
+This string isn't url - /solutions/document-ai
+This string isn't url - /solutions/lending-doc-ai
+This string isn't url - /solutions/procurement-doc-ai
+This string isn't url - /solutions/intelligent-products
+This string isn't url - /data-science
+This string isn't url - /solutions/contract-doc-ai
+This string isn't url - /solutions/ccai-insights
+This string isn't url - /solutions/apis-and-applications
+This string isn't url - /solutions/new-channels-using-apis
+This string isn't url - /solutions/unlocking-legacy-applications
+This string isn't url - /solutions/open-banking-apix
+This string isn't url - /solutions/databases
+This string isn't url - /solutions/database-migration
+This string isn't url - /solutions/database-modernization
+This string isn't url - /products/databases
+This string isn't url - /solutions/migrate-oracle-workloads
+This string isn't url - /solutions/open-source-databases
+This string isn't url - /sql-server
+This string isn't url - /data-cloud
+This string isn't url - /solutions/databases
+This string isn't url - /solutions/smart-analytics
+This string isn't url - /solutions/ai
+This string isn't url - /solutions/business-innovation
+This string isn't url - /solutions/operational-efficiency
+This string isn't url - /covid19
+This string isn't url - /covid19-healthcare
+This string isn't url - /solutions/infrastructure-modernization
+This string isn't url - /solutions/application-migration
+This string isn't url - /solutions/sap
+This string isn't url - /solutions/hpc
+This string isn't url - /windows
+This string isn't url - /solutions/migration-center
+This string isn't url - /solutions/active-assist
+This string isn't url - /solutions/virtual-desktops
+This string isn't url - /solutions/cloud-migration-program
+This string isn't url - /solutions/backup-dr
+https://workspace.google.com/enterprise/
+https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect
+https://workspace.google.com/essentials/
+This string isn't url - /identity
+https://chromeenterprise.google/
+https://workspace.google.com/products/cloud-search/
+This string isn't url - /solutions/security
+This string isn't url - /solutions/security-analytics-and-operations
+This string isn't url - /solutions/web-app-and-api-protection
+This string isn't url - /solutions/security-and-resilience
+This string isn't url - /solutions/risk-and-compliance-as-code
+This string isn't url - /solutions/smart-analytics
+This string isn't url - /solutions/data-warehouse-modernization
+This string isn't url - /solutions/data-lake
+This string isn't url - /solutions/spark
+This string isn't url - /solutions/stream-analytics
+This string isn't url - /solutions/business-intelligence
+This string isn't url - /data-science
+This string isn't url - /solutions/marketing-analytics
+This string isn't url - /solutions/geospatial
+This string isn't url - /solutions/datasets
+This string isn't url - /solutions#section-12
+This string isn't url - /solutions/startups
+This string isn't url - /startup
+This string isn't url - /solutions/smb
+This string isn't url - /saas
+This string isn't url - /compute
+This string isn't url - /storage
+This string isn't url - /sdk
+This string isn't url - /sql
+This string isn't url - /kubernetes-engine
+This string isn't url - /bigquery
+This string isn't url - /cdn
+This string isn't url - /dataflow
+This string isn't url - /products/operations
+This string isn't url - /run
+This string isn't url - /anthos
+This string isn't url - /products
+This string isn't url - /products/ai
+This string isn't url - /vertex-ai
+This string isn't url - /speech-to-text
+This string isn't url - /vision
+This string isn't url - /text-to-speech
+This string isn't url - /translate
+This string isn't url - /natural-language
+This string isn't url - /automl
+This string isn't url - /video-intelligence
+This string isn't url - /ai-infrastructure
+This string isn't url - /dialogflow
+This string isn't url - /automl-tables/docs
+This string isn't url - /products#ai-and-machine-learning
+This string isn't url - /apigee
+This string isn't url - /apigee/integration
+This string isn't url - /endpoints
+This string isn't url - /healthcare-api
+This string isn't url - /appsheet
+This string isn't url - /api-gateway
+This string isn't url - /products/compute
+This string isn't url - /compute
+This string isn't url - /appengine
+This string isn't url - /gpu
+This string isn't url - /migrate/compute-engine
+This string isn't url - /spot-vms
+This string isn't url - /shielded-vm
+This string isn't url - /compute/docs/nodes/sole-tenant-nodes
+This string isn't url - /bare-metal
+This string isn't url - /recommender
+This string isn't url - /vmware-engine
+This string isn't url - /run
+This string isn't url - /products#compute
+This string isn't url - /containers
+This string isn't url - /kubernetes-engine
+This string isn't url - /container-registry
+This string isn't url - /container-registry
+This string isn't url - /build
+This string isn't url - /deep-learning-containers
+This string isn't url - /kubernetes-applications
+This string isn't url - /artifact-registry
+This string isn't url - /knative
+This string isn't url - /run
+This string isn't url - /code
+This string isn't url - /solutions/smart-analytics
+This string isn't url - /bigquery
+This string isn't url - /looker
+This string isn't url - /dataflow
+This string isn't url - /pubsub
+This string isn't url - /dataproc
+This string isn't url - /data-fusion
+This string isn't url - /composer
+This string isn't url - /dataprep
+This string isn't url - /dataplex
+This string isn't url - /data-catalog
+This string isn't url - /analytics-hub
+This string isn't url - /products#section-7
+This string isn't url - /products/databases
+This string isn't url - /bigtable
+This string isn't url - /firestore
+This string isn't url - /memorystore
+This string isn't url - /spanner
+This string isn't url - /sql
+This string isn't url - /database-migration
+This string isn't url - /bare-metal
+https://firebase.google.com/products/realtime-database/
+This string isn't url - /datastream
+This string isn't url - /products/tools
+This string isn't url - /artifact-registry
+This string isn't url - /build
+This string isn't url - /code
+This string isn't url - /deployment-manager/docs
+This string isn't url - /sdk
+This string isn't url - /scheduler
+This string isn't url - /source-repositories
+This string isn't url - /tasks
+This string isn't url - /deploy
+This string isn't url - /tekton
+This string isn't url - /powershell
+This string isn't url - /products/tools
+This string isn't url - /solutions/apigee-health-apix
+This string isn't url - /healthcare-api
+This string isn't url - /life-sciences
+This string isn't url - /natural-language
+This string isn't url - /anthos
+This string isn't url - /anthos
+This string isn't url - /looker
+This string isn't url - /anthos/run
+This string isn't url - /kubernetes-applications
+This string isn't url - /migrate/anthos
+This string isn't url - /products/operations
+This string isn't url - /build
+This string isn't url - /traffic-director
+This string isn't url - /apigee
+This string isn't url - /distributed-cloud
+This string isn't url - /iot-core
+This string isn't url - /edge-tpu
+This string isn't url - /products/management
+This string isn't url - /anthos/config-management
+This string isn't url - /carbon-footprint
+This string isn't url - /apis
+This string isn't url - /cloud-console
+This string isn't url - /console-app
+This string isn't url - /shell
+This string isn't url - /config-connector/docs/overview
+This string isn't url - /cost-management
+This string isn't url - /solutions/active-assist
+This string isn't url - /private-catalog
+This string isn't url - /docs/terraform
+This string isn't url - /game-servers
+This string isn't url - /opencue
+This string isn't url - /transcoder/docs
+This string isn't url - /products/cloud-migration
+This string isn't url - /solutions/application-migration
+This string isn't url - /bigquery-transfer/docs/introduction
+This string isn't url - /foundation-toolkit
+This string isn't url - /database-migration
+This string isn't url - /migrate/anthos
+This string isn't url - /migrate/compute-engine
+This string isn't url - /solutions/cloud-migration-program
+This string isn't url - /transfer-appliance/docs/4.0
+This string isn't url - /storage-transfer-service
+This string isn't url - /vmware-engine
+This string isn't url - /products/networking
+This string isn't url - /armor
+This string isn't url - /cdn
+This string isn't url - /dns
+This string isn't url - /load-balancing
+This string isn't url - /nat
+This string isn't url - /hybrid-connectivity
+This string isn't url - /network-connectivity-center
+This string isn't url - /network-intelligence-center
+This string isn't url - /network-tiers
+This string isn't url - /network-telemetry
+This string isn't url - /traffic-director
+This string isn't url - /products#section-16
+This string isn't url - /products/operations
+This string isn't url - /logging
+This string isn't url - /monitoring
+This string isn't url - /error-reporting
+This string isn't url - /kubernetes-engine-monitoring
+This string isn't url - /trace
+This string isn't url - /profiler
+This string isn't url - /debugger
+This string isn't url - /solutions/active-assist
+This string isn't url - /products/security-and-identity
+This string isn't url - /iam
+This string isn't url - /assured-workloads
+This string isn't url - /security-key-management
+This string isn't url - /confidential-computing
+This string isn't url - /security-command-center
+This string isn't url - /dlp
+This string isn't url - /managed-microsoft-ad/docs/overview
+This string isn't url - /access-transparency
+This string isn't url - /titan-security-key
+This string isn't url - /secret-manager
+This string isn't url - /beyondcorp-enterprise
+This string isn't url - /products#security-and-identity
+This string isn't url - /serverless
+This string isn't url - /run
+This string isn't url - /functions
+This string isn't url - /appengine
+This string isn't url - /workflows
+This string isn't url - /products/storage
+This string isn't url - /products/storage
+This string isn't url - /storage
+This string isn't url - /filestore
+This string isn't url - /persistent-disk
+https://firebase.google.com/products/storage
+This string isn't url - /local-ssd
+This string isn't url - /storage-transfer-service
+https://workspace.google.com/essentials/
+This string isn't url - /contact/?direct=true
+This string isn't url - /pricing
+This string isn't url - /pricing/list
+This string isn't url - /products/calculator
+This string isn't url - /free
+https://workspace.google.com/pricing.html
+This string isn't url - /maps-platform/pricing
+https://chromeenterprise.google/devices/tco-calculator/
+https://cloud.google.com/apigee/pricing
+https://looker.com/product/pricing
+https://firebase.google.com/pricing/
+This string isn't url - /free
+This string isn't url - /docs/get-started
+This string isn't url - /developers
+This string isn't url - /certification
+This string isn't url - /consulting
+This string isn't url - /tam
+This string isn't url - /training
+This string isn't url - /partners
+This string isn't url - /partners/become-a-partner
+This string isn't url - /marketplace
+https://cloud.google.com/?hl=ru
+https://cloud.google.com/products?hl=ru
+https://cloud.google.com/translate?hl=ru
+https://cloud.google.com/blog/products/ai-machine-learning/translation-tools-that-meet-business-needs?hl=ru
+This string isn't url - #
+https://console.cloud.google.com/freetrial?hl=ru
+https://cloud.google.com/contact?hl=ru
+https://console.cloud.google.com/translation/dashboard?hl=ru
+https://cloud.google.com/contact?hl=ru
+https://youtube.com/watch?v=4N1zXUK7vdg&hl=ru
+https://cloud.google.com/translate/automl/docs/?hl=ru
+https://cloud.google.com/media-translation?hl=ru
+This string isn't url - #all-features
+https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-ai-translation-services-works-for-documents?hl=ru
+https://cloud.google.com/customers/hi-translate/?hl=ru
+https://www.youtube.com/watch?v=cKUeV6FJP_U&hl=ru
+https://cloud.google.com/customers/gic-labs/?hl=ru
+https://cloud.google.com/customers/translatelive?hl=ru
+https://cloud.google.com/customers/db-corp/?hl=ru
+https://cloud.google.com/customers?hl=ru
+https://cloud.google.com/customers?hl=ru
+https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-ai-translation-services-works-for-documents?hl=ru
+https://cloud.google.com/newsletter?hl=ru
+https://www.youtube.com/watch?v=A3knNbGfXh4&hl=ru
+https://www.youtube.com/watch?v=yzZiRrKcwD8&hl=ru
+https://www.youtube.com/watch?v=RyVWUMAMIDk&hl=ru
+https://www.youtube.com/watch?v=DvZRm-cqE7s&%3Bt=57s&hl=ru
+https://www.youtube.com/watch?v=1J7YexK6rwY&hl=ru
+https://cloud.google.com/architecture/speech-translation-android-microservice?hl=ru
+https://cloud.google.com/functions/docs/tutorials/ocr?hl=ru
+https://cloud.google.com/translate/docs?hl=ru
+https://cloud.google.com/translate/docs/advanced/quickstart?hl=ru
+https://cloud.google.com/translate/docs/how-to?hl=ru
+https://cloud.google.com/docs/tutorials/?hl=ru#machine+learning
+https://cloud.google.com/translate/docs/reference/api-overview?hl=ru
+https://cloud.google.com/translate/docs/quickstarts/?hl=ru
+https://console.cloud.google.com/translation?hl=ru
+https://cloud.google.com/translate/automl/docs/?hl=ru
+https://cloud.google.com/translate/docs/quickstarts/?hl=ru
+https://console.cloud.google.com/translation?hl=ru
+https://cloud.google.com/translate/automl/docs/?hl=ru
+https://cloud.google.com/translate/pricing?hl=ru
+https://cloud.google.com/translate/pricing?hl=ru
+https://cloud.google.com/translate/automl/pricing?hl=ru
+https://cloud.google.com/translate/media/pricing?hl=ru
+https://console.cloud.google.com/freetrial?hl=ru
+https://console.cloud.google.com/translation/dashboard?hl=ru
+https://cloud.google.com/contact/?hl=ru
+https://cloud.withgoogle.com/partners/
+https://cloud.google.com/products/?hl=ru
+https://cloud.google.com/contact/?hl=ru
+https://cloud.withgoogle.com/partners/
+https://cloud.google.com/docs/tutorials?hl=ru
+This string isn't url - /why-google-cloud/
+This string isn't url - /security/
+This string isn't url - /open-cloud/
+This string isn't url - /multicloud/
+This string isn't url - /infrastructure/
+This string isn't url - /sustainability/
+This string isn't url - /customers/
+This string isn't url - /analyst-reports/
+This string isn't url - /whitepapers/
+This string isn't url - /blog/
+This string isn't url - /pricing/
+This string isn't url - //workspace.google.com/pricing.html
+This string isn't url - /maps-platform/pricing/
+This string isn't url - /products/
+This string isn't url - /solutions/infrastructure-modernization/
+This string isn't url - /solutions/databases/
+This string isn't url - /solutions/application-modernization/
+This string isn't url - /solutions/smart-analytics/
+This string isn't url - /solutions/ai/
+This string isn't url - /solutions/security/
+https://workspace.google.com/enterprise/
+This string isn't url - /solutions/#industry-solutions
+This string isn't url - /solutions/devops/
+This string isn't url - /solutions/#role-based-solutions-smb
+This string isn't url - /solutions/
+This string isn't url - /docs/
+This string isn't url - /gcp/getting-started/
+This string isn't url - /marketplace/
+This string isn't url - //workspace.google.com/marketplace/
+This string isn't url - /learn/
+This string isn't url - /support-hub/
+This string isn't url - /docs/samples
+This string isn't url - /docs/tutorials/
+This string isn't url - /training/
+This string isn't url - /certification
+This string isn't url - //developers.google.com
+This string isn't url - /developers/startups/
+This string isn't url - //status.cloud.google.com
+This string isn't url - /release-notes
+This string isn't url - /contact/
+This string isn't url - //cloud.google.com/find-a-partner
+This string isn't url - /partners/become-a-partner/
+This string isn't url - /events/
+This string isn't url - //www.gcppodcast.com
+This string isn't url - /developers/
+https://www.googlecloudpresscorner.com/
+This string isn't url - //www.youtube.com/googlecloud
+This string isn't url - //www.youtube.com/googlecloudplatform
+This string isn't url - //www.youtube.com/googleworkspace
+This string isn't url - //twitter.com/googlecloud
+This string isn't url - //userresearch.google.com/?reserved=1&utm_source=website&Q_Language=en&utm_medium=own_srch&utm_campaign=CloudWebFooter&utm_term=0&utm_content=0&productTag=clou&campaignDate=jul19&pType=devel&referral_code=jk212693
+This string isn't url - //careers.google.com/cloud
+https://www.googlecloudcommunity.com/
+This string isn't url - #
+This string isn't url - //about.google/?hl=ru
+This string isn't url - //policies.google.com/privacy?hl=ru
+This string isn't url - //www.google.com/intl/en/policies/terms/regional.html?hl=ru
+https://cloud.google.com/product-terms/?hl=ru
+https://cloud.google.com/sustainability?hl=ru
+https://cloud.google.com/newsletter/?hl=ru
