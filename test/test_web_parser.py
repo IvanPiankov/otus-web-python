@@ -1,4 +1,6 @@
 from web_parser import (is_string_an_url, get_request)
+from requests_mock.mocker import Mocker
+
 
 
 class TestStringToUrl:
@@ -16,13 +18,13 @@ class TestStringToUrl:
 
 class TestGetRequest:
 
-    def test_get_request_status_code_200(self, requests_mock):
+    def test_get_request_status_code_200(self, requests_mock: Mocker):
         requests_mock.get('http://test.com', text='data', status_code=200)
         expected_code, expected_text = get_request('http://test.com')
         assert expected_text == 'data'
         assert expected_code == 200
 
-    def test_get_request_status_code_400(self, requests_mock):
+    def test_get_request_status_code_400(self, requests_mock: Mocker):
         requests_mock.get('http://test.com', text='data', status_code=400)
         expected_code, expected_text = get_request('http://test.com')
         assert expected_text == 'data'
